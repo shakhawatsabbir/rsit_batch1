@@ -1,0 +1,14 @@
+{
+  "name" : "php1/php1",
+  "type": "project",
+  "discaption": "A new Projet",
+  "keywords": [],
+  "license": "",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
